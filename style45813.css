@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(253, 253, 249);
+}
+
+#preloader {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  display: none;
+}
